@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'dIcon';  /* Project id 2574608 */
-  src: url('//at.alicdn.com/t/font_2574608_yahfishra4.woff2?t=1623114681579') format('woff2'),
-       url('//at.alicdn.com/t/font_2574608_yahfishra4.woff?t=1623114681579') format('woff'),
-       url('//at.alicdn.com/t/font_2574608_yahfishra4.ttf?t=1623114681579') format('truetype');
+  src: url('//at.alicdn.com/t/font_2574608_bsbc3ycfzn9.woff2?t=1625640932899') format('woff2'),
+       url('//at.alicdn.com/t/font_2574608_bsbc3ycfzn9.woff?t=1625640932899') format('woff'),
+       url('//at.alicdn.com/t/font_2574608_bsbc3ycfzn9.ttf?t=1625640932899') format('truetype');
 }
 
 .dIcon {
@@ -177,19 +177,19 @@
   content: "\e715";
 }
 
-.d-arrows_right:before {
+.d-arrowsright:before {
   content: "\e6a3";
 }
 
-.d-arrows_down:before {
+.d-arrowsdown:before {
   content: "\e886";
 }
 
-.d-arrows_left:before {
+.d-arrowsleft:before {
   content: "\e887";
 }
 
-.d-arrows_up:before {
+.d-arrowsup:before {
   content: "\e885";
 }
 
